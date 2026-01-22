@@ -86,3 +86,21 @@ To combine all monthly sales data into a **single dataset** for **Quarter 1 (Jan
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 📝 Key Learnings
+- Using **Get Data → Folder** is an efficient way to handle recurring monthly data
+- Power Query automatically appends files with identical schemas
+- This approach is scalable for future monthly data additions
+
+---
+
+## 📌 Notes
+- No DAX calculations were required for this task
+- The focus of this project is data ingestion and consolidation
+
+---
+
+
+
